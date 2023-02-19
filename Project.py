@@ -99,7 +99,7 @@ def save():
 			aw_ent_sal.delete(0, END)
 			aw_ent_id.focus()
 
-# View Information
+# View Info
 def f2():
 	mw.withdraw()
 	vw.deiconify()
